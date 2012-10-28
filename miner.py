@@ -19,7 +19,7 @@ class Miner():
 	#
 	#	Name: MineTweetsFromStreaming
 	#	Desc: Open a Connection to the Streaming Filter API + track 
-	#		  users in the db or company name or both
+	#		  users in the db or keywords or both
 	
 	def MineTweetsFromStreaming(self):
 		
